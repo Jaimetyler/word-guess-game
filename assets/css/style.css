@@ -1,0 +1,47 @@
+body {
+    background: url("../images/baseballfield.jpg");
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed;
+    margin: -60px;
+}
+
+#header {
+    height: 100px;
+    color: white;
+}
+
+#header h1 {
+    line-height: 75px;
+    margin: 45px;
+    font-size: 48px;
+}
+
+#row2 {
+    padding-top : 5%;
+    color: white;
+}
+
+#randomWord {
+    letter-spacing: 4px;
+    font-size: x-large;
+    margin-top: 5%;
+    color: white;
+}
+
+#guessed {
+    padding-top: 15px;
+    font-size: large;
+    letter-spacing: 5px;
+    color: white;
+}
+
+#remainingGuesses {
+    font-size: large;
+    color: white;
+}
+
+
+
+
+
